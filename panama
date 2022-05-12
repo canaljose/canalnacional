@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1,TVMAX
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1,TVN
+https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1,NEXTV
+https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BOCA TV
+https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
