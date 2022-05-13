@@ -11,3 +11,6 @@ https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BOCA TV
 https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w1414568337.m3u8
+
+#EXTINF:-1,RPC TV
+https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w1414568337.m3u8
