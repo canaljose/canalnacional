@@ -10,10 +10,7 @@ https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/60580
 https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BOCA TV 1
-https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
-
-#EXTINF:-1,BOCA TV 2
-https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w155042505.m3u8
+https://cloud.streamingconnect.tv:455/btv/btv.m3u8
 
 #EXTINF:-1, OYE TV
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
