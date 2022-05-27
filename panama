@@ -29,3 +29,6 @@ https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8?uid=zBNfgn
 
 #EXTINF:-1,SERTV
 https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSplQ4Oy196P_TUmghDvhe--AFh19f3f40X-kmUHMKywpi)/dm/3/x81cvsk/s/live-0.m3u8#cell=lnyc
+
+#EXTINF:-1,SERTV_HD
+https://stream-03.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSplQ4Oy196P_TUmghDvhe--AFh19f3f40X-kmUHMKywpi)/dm/3/x81cvsk/s/live-3.m3u8#cell=lnyc
