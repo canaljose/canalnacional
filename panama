@@ -9,17 +9,13 @@ https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/60580
 #EXTINF:-1,NEXTV
 https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,BOCA TV 1 
-https://cloud.streamingconnect.tv:455/btv/btv.m3u8
-
 #EXTINF:-1, OYE TV
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 
-#EXTINF:-1,  RPC TV
-https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8?uid=WneaTISjlHycQSJ3DXuvZ09jup1V4mXH&sid=et458E9NWa57b7dIsoHjCb0866MZFNOw&pid=cPa4KbX7GRP3mUjP1bYNuW2Yn5z64L9M&an=screen&at=web-app&av=v5.2.245&ref=https%3A%2F%2Fphotocall.tv%2F&res=1600x767&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=bdf74217-903f-44ae-95ca-67d8576416ad
+#EXTINF:-1,BOCA TV 
 
-#EXTINF:-1,RPC RADIO
-https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8?uid=zBNfgnmZdgkw0HvlLj8M4qCL0QQj6t16&sid=XSTqYruL0sI7MvjnK4C4WbGriLr4Jch7&pid=3c82Vpl2MT4V0JklELVzs5QksK4uuqTg&an=screen&at=web-app&av=v5.2.246&c=627c4ca14a2d317298fa0162&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=768x432&without_cookies=false&listenerid=&dnt=true&access_token=pgSvHMxVWjEauxNpEWcdpZrxBU2yvKahv93AyhBcIgvWPt9zvqni8zGDod2IbTrLSERSAFGmt9R
+#EXTINF:-1,RPC TV
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8?uid=WneaTISjlHycQSJ3DXuvZ09jup1V4mXH&sid=et458E9NWa57b7dIsoHjCb0866MZFNOw&pid=cPa4KbX7GRP3mUjP1bYNuW2Yn5z64L9M&an=screen&at=web-app&av=v5.2.245&ref=https%3A%2F%2Fphotocall.tv%2F&res=1600x767&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=bdf74217-903f-44ae-95ca-67d8576416ad
 
 #EXTINF:-1,TELEMETRO TV
 https://mdstrm.com/live-stream-playlist/5ddc34626e84010896e952f2.m3u8?uid=zBNfgnmZdgkw0HvlLj8M4qCL0QQj6t16&sid=XSTqYruL0sI7MvjnK4C4WbGriLr4Jch7&pid=gDpo6GfJY5VhfjpEizoL1F0Cr9lv7L65&an=screen&at=web-app&av=v5.2.246&ref=https%3A%2F%2Fwww.telemetro.com%2F&res=1187x668&without_cookies=false&listenerid=&dnt=true
@@ -32,3 +28,10 @@ https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSplQ4Oy196P_TUmghDv
 
 #EXTINF:-1,SERTV_HD
 https://stream-03.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSplQ4Oy196P_TUmghDvhe--AFh19f3f40X-kmUHMKywpi)/dm/3/x81cvsk/s/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1,CABINA TELEMETRO RADIO
+https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8?uid=zBNfgnmZdgkw0HvlLj8M4qCL0QQj6t16&sid=t9tXnd9a4saPH1SYuNi3I62KIQkMpnMo&pid=paWgHW6iIHbcs4T54s8WEC6397sQsGbM&an=screen&at=web-app&av=v5.2.247&c=627c4ca14a2d317298fa0162&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=768x432&without_cookies=false&listenerid=&dnt=true&access_token=H2zf24qGKervm7eF7aUdWz3BcknDpDE1J5EC3iJN24dYn6sdjdrNhDuF3UBXTFOOfSmI6ZlMXNk
+
+#EXTINF:-1,CABINA RPC RADIO
+https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8?uid=zBNfgnmZdgkw0HvlLj8M4qCL0QQj6t16&sid=XSTqYruL0sI7MvjnK4C4WbGriLr4Jch7&pid=3c82Vpl2MT4V0JklELVzs5QksK4uuqTg&an=screen&at=web-app&av=v5.2.246&c=627c4ca14a2d317298fa0162&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=768x432&without_cookies=false&listenerid=&dnt=true&access_token=pgSvHMxVWjEauxNpEWcdpZrxBU2yvKahv93AyhBcIgvWPt9zvqni8zGDod2IbTrLSERSAFGmt9R
+
