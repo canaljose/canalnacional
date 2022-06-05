@@ -12,8 +12,8 @@ https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
 #EXTINF:-1, OYE TV
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 
-#EXTINF:-1,BOCA TV 
-https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w194241570.m3u8
+#EXTINF:-1, BOCA TV 
+https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 
 #EXTINF:-1,RPC TV
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8?uid=tVb33pgAFpOKcWFLjQfBoYryTlDhDBDL&sid=3V2Lca5dKLDQNu63DKelB4u4GKqnxfbX&pid=fWON552tZAMpHHH11DqH7yZ5MPAlu0SV&an=screen&at=web-app&av=v5.2.250&ref=https%3A%2F%2Fwww.rpctv.com%2F&res=1187x668&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=71847fb2-f4c3-48a7-a9af-8411de660147
@@ -21,14 +21,8 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8?uid=tVb33p
 #EXTINF:-1,TELEMETRO TV
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8?uid=tVb33pgAFpOKcWFLjQfBoYryTlDhDBDL&sid=JwgttorwVIPsJT0xnqB3cb4ZkMKLV58E&pid=Z5OO5gSCTwY4JWliHNV6t98wI0fe4r6s&an=screen&at=web-app&av=v5.2.250&ref=https%3A%2F%2Fwww.telemetro.com%2F&res=1187x668&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=fb96bd7d-151e-44ea-9d8c-942875f47e2f
 
-#EXTINF:-1,telemetro Televicion
-https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-dai/9117f0590fc44e748830d7f17a172c9a/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5d88dd2229b0890723df2165/bef0b2a5-4b18-485f-9ff3-3f67bde3f062/3.m3u8?aid=5d409041e10de808a34fce18&uid=tVb33pgAFpOKcWFLjQfBoYryTlDhDBDL&sid=JwgttorwVIPsJT0xnqB3cb4ZkMKLV58E&pid=32mpi2WvbHgZq8YdSjp1sfgYsX0zV8b2&ref=https%3A%2F%2Fwww.telemetro.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1654193939983&ot=UnVLx1colWJVORqTbPb8HQ&proto=https&pz=us
-
 #EXTINF:-1,SERTV
-https://stream-01.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpv01LxPvr7OCIsUn3INUD1CLGqpQYv5fJFwvU4OmXwyw)/dm/3/x81cvsk/s/live-3.m3u8#cell=lnyc
-
-#EXTINF:-1,SERTV_HD
-https://stream-04.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpv01LxPvr7OCIsUn3INUD1CLGqpQYv5fJFwvU4OmXwyw)/dm/3/x81cvsk/s/live-3.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpmDsOO0GLoj9ibA6MyGar-fNZ7CFAjbnM-35t6VlgaqB)/dm/3/x81cvsk/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1,CABINA TELEMETRO RADIO
 https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8?uid=zBNfgnmZdgkw0HvlLj8M4qCL0QQj6t16&sid=t9tXnd9a4saPH1SYuNi3I62KIQkMpnMo&pid=paWgHW6iIHbcs4T54s8WEC6397sQsGbM&an=screen&at=web-app&av=v5.2.247&c=627c4ca14a2d317298fa0162&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=768x432&without_cookies=false&listenerid=&dnt=true&access_token=H2zf24qGKervm7eF7aUdWz3BcknDpDE1J5EC3iJN24dYn6sdjdrNhDuF3UBXTFOOfSmI6ZlMXNk
@@ -36,6 +30,16 @@ https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8?uid=zBNfgn
 #EXTINF:-1,CABINA RPC RADIO
 https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8?uid=zBNfgnmZdgkw0HvlLj8M4qCL0QQj6t16&sid=XSTqYruL0sI7MvjnK4C4WbGriLr4Jch7&pid=3c82Vpl2MT4V0JklELVzs5QksK4uuqTg&an=screen&at=web-app&av=v5.2.246&c=627c4ca14a2d317298fa0162&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=768x432&without_cookies=false&listenerid=&dnt=true&access_token=pgSvHMxVWjEauxNpEWcdpZrxBU2yvKahv93AyhBcIgvWPt9zvqni8zGDod2IbTrLSERSAFGmt9R
 
-#EXTINF:-1,OPCION 2 BOCA TV 
-https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
