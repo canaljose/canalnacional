@@ -6,6 +6,9 @@ https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/60580
 #EXTINF:-1,TVN
 https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/playlist_dvr.m3u8
 
+#EXTINF:-1,TVN PASS
+https://streann-msl4.akamaized.net/hls/live/2037509/exclusivohls/master1080.m3u8
+
 #EXTINF:-1,NEXTV
 https://mediacp.us:8081/nex21/index.m3u8
 
