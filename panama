@@ -9,7 +9,8 @@ http://190.83.119.67:8000/play/a0nn/index.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/s5jjnXICbH4A_rQxq7IgqzMwCtRR8YrWg2bNm4-GZQXYt3lzjA5TqRXpqCRDeZohlkVN"group-title="Panama",TVN
 https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="Panama",RPC TV
+#EXTINF:-1,tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/05/rpc-logo-300x300.jpg"group-title="Panama",RPC TV
+
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1422598819762556942/cC3gbSEg_400x400.jpg"group-title="Panama",NEXTV
