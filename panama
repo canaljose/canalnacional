@@ -6,6 +6,9 @@ https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/60580
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Log_sertv-80-retina.png"group-title="Panama",SERTV
 http://190.83.119.67:8000/play/a0nn/index.m3u8
 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Log_sertv-80-retina.png"group-title="Panama",SERTVHD
+https://stream-04.sv4.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpgcSePpPE0QPJ4sj6r6ZabIfHJIRx7z1H6H7oi3YcwNs)/dm/3/x81cvsk/s/live-3.m3u8#cell=lsv4
+
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/s5jjnXICbH4A_rQxq7IgqzMwCtRR8YrWg2bNm4-GZQXYt3lzjA5TqRXpqCRDeZohlkVN"group-title="Panama",TVN
 https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/playlist_dvr.m3u8
 
