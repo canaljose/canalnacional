@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,tvg-logo="https://www.tvmax-9.com/mas_deportes/Panama-Open-inicia-viernes_3980926.jpg"group-title="Panama",TVMAX
-https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Log_sertv-80-retina.png"group-title="Panama",SERTV
 http://190.83.119.67:8000/play/a0nn/index.m3u8
