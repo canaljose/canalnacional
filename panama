@@ -7,13 +7,12 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 http://190.83.119.67:8000/play/a0nn/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Log_sertv-80-retina.png"group-title="Panama",SERTVHD
-https://stream-04.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSps1OZvqz78dl5zWuGWU7ZcB2JiMup0pNDX_B_rupOYdb)/dm/3/x81cvsk/s/live-0.m3u8
+https://stream-04.sv4.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpgcSePpPE0QPJ4sj6r6ZabIfHJIRx7z1H6H7oi3YcwNs)/dm/3/x81cvsk/s/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/s5jjnXICbH4A_rQxq7IgqzMwCtRR8YrWg2bNm4-GZQXYt3lzjA5TqRXpqCRDeZohlkVN"group-title="Panama",TVN
 https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1,tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/05/rpc-logo-300x300.jpg"group-title="Panama",RPC TV
-
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1422598819762556942/cC3gbSEg_400x400.jpg"group-title="Panama",NEXTV
@@ -31,11 +30,10 @@ https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.festivalprisma.com/wp-content/uploads/2018/09/telemetro-1-300x300.jpg"group-title="Panama",TELEMETRO TV
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1356621732564631552/mlBHOoKp_400x400.jpg"group-title="Panama",TELEMETRO RADIO
-https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8
 
-#EXTINF:-1,tvg-logo="https://i.pinimg.com/474x/ba/10/5d/ba105daee225c3f2b5d57c6a173d2282.jpg"group-title="Panama",CABINA RPC RADIO
-https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
+DEPORTES*****************************************************
+
+
 
 #EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/espn-150x150.jpg"group-title="DEPORTES",ESPN
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
@@ -64,6 +62,10 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/tudn-150x150.jpg"group-title="DEPORTES",TDN
 https://js.deplayer.pw:30443/edge/ver3d212e1d216437ba2d24502a4768ad44/chunks.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/tudn-150x150.jpg"group-title="DEPORTES",TDN HD
+https://dcs-live-ue1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-5&anvsid=m177618712-n40c6e8f1623e2ec4cff4f265b1447fbb&ts=1657419451&anvtrid=0ee38d571b995ef30317da77b8aa7940
+
+
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg"group-title="DEPORTES",LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
@@ -76,6 +78,85 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/03ab3a290c9a4845b435d8948088bb7f/c
 
 #EXTINF:-1,  tvg-logo="https://televisionlibre.net/img/logo_canal/Univision.png"group-title="DEPORTES",UNIVICION
 https://v-la.mybtv.net/live/178.m3u8
+
+
+PELICULA*********************************************************
+
+#EXTINF:-1,  tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png"group-title="PELICULA",FX HD
+https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD-mp4a_144800_spa=20000-avc1_1726000=10002.m3u8
+
+#EXTINF:-1,  tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg"group-title="PELICULA",SYFY
+https://edge1.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy-mp4a_144800_spa=20000-avc1_1499968=10015.m3u8
+
+#EXTINF:-1,  tvg-logo="https://tv.mobistream.co.za/uploads/jpg/f4987923d8f33269cb907db688c5af96.jpg"group-title="PELICULA",Comedia
+https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1,  tvg-logo="https://image.xumo.com/v1/channels/channel/99991762/300x300.png?type=smartCast_channelTile"group-title="PELICULA",Competencia
+https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png"group-title="PELICULA",Space
+https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD-mp4a_144800_eng=20001-avc1_579968=10010.m3u8
+
+#EXTINF:-1,  tvg-logo="https://quedeseries.es/wp-content/uploads/2020/03/Pantheon-AMC-ordena-dos-temporadas-de-series-animadas-cancelaci%C3%B3n.jpg"group-title="PELICULA",AMC
+https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD-mp4a_144800_eng=20001-avc1_678000=10000.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.cineytele.com/wp-content/uploads/2016/06/paramount-channel.png"group-title="PELICULA",Paramount
+https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount-mp4a_144800_eng=20001-avc1_530000=10000.m3u8
+
+#EXTINF:-1,  tvg-logo="https://i1.sndcdn.com/artworks-000198115180-wj5dj4-t500x500.jpg"group-title="PELICULA",cinecanal
+https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+
+#EXTINF:-1 	tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png"group-title="PELICULA", Telesistema | CR
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 	tvg-id="477" tvg-name="Telered" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png"group-title="PELICULA", Telered | CR
+https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,  tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412"group-title="PELICULA",TERROR 1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=8cc6&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412"group-title="PELICULA",TERRO2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ef3f&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://telefe-static.akamaized.net/media/18212936/pluto-tv-nuevos-canales-telefe.jpg?width=888&height=500&mode=crop"group-title="PELICULA",SUSPENSo
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=00ea&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/media/Eo6sdnRU0AEn7qu.jpg"group-title="PELICULA",Cine Estelar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=7c44&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://content.accion.org/wp-content/uploads/2020/03/og-accion-1.jpg"group-title="PELICULA",ACCION
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6795&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://i.ytimg.com/vi/sz4X1d2g_VY/maxresdefault.jpg"group-title="PELICULA",COMEDIA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=2794&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/media/EFf-dLmWsAAaUZA.jpg"group-title="PELICULA",CINE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=bccc&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMDun8QHkzzSyFh8LZ5Wv32y_lbgT7YXkjIQ&usqp=CAU"group-title="PELICULA",PREMIER
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=3d14&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/media/EOWPvhrW4AAm0RG.jpg"group-title="PELICULA",ACCION 1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=d2fb&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://content.accion.org/wp-content/uploads/2020/03/og-accion-1.jpg"group-title="PELICULA",ACCION 2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ad22&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://t2.tudocdn.net/554272?w=1000&fit=clip"group-title="PELICULA",FAMILIA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=7909&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412"group-title="PELICULA",DRAMA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=30a4&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412"group-title="PELICULA",DRAMA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=c645&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1,  tvg-logo="https://www.prensario.tv/images/galleries/1211/3714df1b558b93817ecfec4c6f257c10_750x400.jpg?v=1528294415"group-title="PELICULA",CINEAR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
+
+
+
+
 
 
 
