@@ -178,10 +178,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 
 NOTICIA****************************************************************
 
-
-#EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-akcrmoPPNPY/YT5IhHkjm7I/AAAAAAAAAMg/XUVvIU00AacfChaqRK9kQsCdbzlY3QtWQCLcBGAsYHQ/h120/CNN_ES.png"group-title="NOTICIA",CNN
-https://edge-vod04-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
-
 #EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-NXeOW-qF-o8/YT5Gw1ptDCI/AAAAAAAAAMI/U2sdIQl6enYq-NS5_BrYSKKJcQtDqPyHQCLcBGAsYHQ/h120/DW.png"group-title="NOTICIA",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
