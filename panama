@@ -6,9 +6,6 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Log_sertv-80-retina.png"group-title="Panama",SERTV
 http://190.83.119.67:8000/play/a0nn/index.m3u8
 
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Log_sertv-80-retina.png"group-title="Panama",SERTVHD
-https://stream-04.sv4.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpgcSePpPE0QPJ4sj6r6ZabIfHJIRx7z1H6H7oi3YcwNs)/dm/3/x81cvsk/s/live-3.m3u8#cell=lsv4
-
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/s5jjnXICbH4A_rQxq7IgqzMwCtRR8YrWg2bNm4-GZQXYt3lzjA5TqRXpqCRDeZohlkVN"group-title="Panama",TVN
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 
@@ -21,9 +18,6 @@ https://mediacp.us:8081/nex21/index.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/Tph6DpU0cLEuTsQTv49zUrbcdj_MNWjQ9_22F4cRVFu6FUwUGZwLuhmSTvHaz1fQ1g"group-title="Panama",TVN PASS
 https://streann-msl4.akamaized.net/hls/live/2037509/exclusivohls/master1080.m3u8
 
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/OYE_TV.jpg"group-title="Panama",OYE TV
-https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
-
 #EXTINF:-1,tvg-logo="https://yell.pa/laravel_project/storage/app/public/item/bocas-tv-2021-04-16-6079cd086a886.jpg"group-title="Panama",BOCA TV
 https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 
@@ -34,16 +28,6 @@ https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 
 DEPORTES*****************************************************
 
-
-
-#EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/espn-150x150.jpg"group-title="DEPORTES",ESPN
-https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-
-#EXTINF:-1, tvg-logo="https://espnpressroom.com/latinamerica/files/2022/05/ESPN-Premium-.jpg"group-title="DEPORTES",ESPN PREMIUN
-https://dtvott-abc.akamaized.net/dash_live_1109/manifest.mpd?&ck=eyI3MGNlOGVjMGJkYTI1NjY0YjMyNTUwZTFkMzc3YTQ4MCI6IjJiOTEyNDdiZDQ1MzY0ZWI2YWI1ZDRjMmM3MWNhZWIwIn0=
-
-#EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/foxsports-150x150.jpg"group-title="DEPORTES",FoxSports
-https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/foxsports2-150x150.jpg"group-title="DEPORTES",FORS_PORTS 2 MEXICO
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
@@ -63,10 +47,6 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/tudn-150x150.jpg"group-title="DEPORTES",TDN
 https://js.deplayer.pw:30443/edge/ver3d212e1d216437ba2d24502a4768ad44/chunks.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/tudn-150x150.jpg"group-title="DEPORTES",TDN HD
-https://dcs-live-ue1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-5&anvsid=m177618712-n40c6e8f1623e2ec4cff4f265b1447fbb&ts=1657419451&anvtrid=0ee38d571b995ef30317da77b8aa7940
-
-
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg"group-title="DEPORTES",LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
@@ -83,50 +63,12 @@ https://v-la.mybtv.net/live/178.m3u8
 
 PELICULA*********************************************************
 
-#EXTINF:-1,  tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png"group-title="PELICULA",FX HD
-https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD-mp4a_144800_spa=20000-avc1_1726000=10002.m3u8
-
-#EXTINF:-1,  tvg-logo="https://telefullenvivo.com/logos/cinemax.png"group-title="PELICULA",CINEMAX
-https://edge3.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
-
-EXTINF:-1,  tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/hbo2-150x150.jpg"group-title="PELICULA",HBO-2
-https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
-
-#EXTINF:-1,  tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/hboextreme-150x150.jpg"group-title="PELICULA",HBO-EXTREME
-https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
-
-#EXTINF:-1,  tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/hbo-150x150.jpg"group-title="PELICULA",HBO
-https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-mp4a_144800_eng=20001-avc1_1972000=10002.m3u8
-
-#EXTINF:-1,  tvg-logo="https://telefullenvivo.com/logos/hboplus.png"group-title="PELICULA",HBO-PLUS
-https://edge1.prepro.cvattv.com.ar/live/live/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plus-mp4a_144800_eng=20001-avc1_1499968=10009.m3u8
-
-#EXTINF:-1,  tvg-logo="https://telefullenvivo.com/logos/hbosignature.png"group-title="PELICULA",HBO_SIGNATURE
-https://edge3.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
-
-#EXTINF:-1,  tvg-logo="https://telefullenvivo.com/logos/tnt.png"group-title="PELICULA",TNT
-https://edge3.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD-mp4a_144800_spa=20000-avc1_3000000=10000.m3u8
-
-#EXTINF:-1,  tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg"group-title="PELICULA",SYFY
-https://edge1.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy-mp4a_144800_spa=20000-avc1_1499968=10015.m3u8
 
 #EXTINF:-1,  tvg-logo="https://tv.mobistream.co.za/uploads/jpg/f4987923d8f33269cb907db688c5af96.jpg"group-title="PELICULA",Comedia
 https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1,  tvg-logo="https://image.xumo.com/v1/channels/channel/99991762/300x300.png?type=smartCast_channelTile"group-title="PELICULA",Competencia
 https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png"group-title="PELICULA",Space
-https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD-mp4a_144800_eng=20001-avc1_579968=10010.m3u8
-
-#EXTINF:-1,  tvg-logo="https://quedeseries.es/wp-content/uploads/2020/03/Pantheon-AMC-ordena-dos-temporadas-de-series-animadas-cancelaci%C3%B3n.jpg"group-title="PELICULA",AMC
-https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD-mp4a_144800_eng=20001-avc1_678000=10000.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.cineytele.com/wp-content/uploads/2016/06/paramount-channel.png"group-title="PELICULA",Paramount
-https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount-mp4a_144800_eng=20001-avc1_530000=10000.m3u8
-
-#EXTINF:-1,  tvg-logo="https://i1.sndcdn.com/artworks-000198115180-wj5dj4-t500x500.jpg"group-title="PELICULA",cinecanal
-https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
 #EXTINF:-1 	tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png"group-title="PELICULA", Telesistema | CR
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
