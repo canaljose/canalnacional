@@ -30,8 +30,7 @@ https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.festivalprisma.com/wp-content/uploads/2018/09/telemetro-1-300x300.jpg"group-title="Panama",TELEMETRO TV
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 
-#EXTINF:-1,tvg-logo="https://media.cospanama.com/p/76673cbe7a348a2115e8ffdf6dbd2dcc/adjuntos/324/banners/017/283/0017283223/cospng.png"group-title="Panama",COS
-https://mdstrm.com/live-stream-playlist/5d88e7b00392f5073319dd89.m3u8
+
 
 
 DEPORTES*****************************************************
@@ -68,6 +67,8 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/03ab3a290c9a4845b435d8948088bb7f/c
 #EXTINF:-1,  tvg-logo="https://televisionlibre.net/img/logo_canal/Univision.png"group-title="DEPORTES",UNIVICION
 https://v-la.mybtv.net/live/178.m3u8
 
+#EXTINF:-1,tvg-logo="https://media.cospanama.com/p/76673cbe7a348a2115e8ffdf6dbd2dcc/adjuntos/324/banners/017/283/0017283223/cospng.png"group-title="Panama", PA
+https://mdstrm.com/live-stream-playlist/5d88e7b00392f5073319dd89.m3u8
 
 PELICULA*********************************************************
 
