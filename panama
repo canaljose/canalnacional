@@ -24,11 +24,14 @@ https://mediacp.us:8081/nex21/index.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/Tph6DpU0cLEuTsQTv49zUrbcdj_MNWjQ9_22F4cRVFu6FUwUGZwLuhmSTvHaz1fQ1g"group-title="Panama",TVN PASS
 https://streann-msl4.akamaized.net/hls/live/2037509/exclusivohls/master1080.m3u8
 
-#EXTINF:-1,tvg-logo="https://yell.pa/laravel_project/storage/app/public/item/bocas-tv-2021-04-16-6079cd086a886.jpg"group-title="Panama",BOCA TV
-https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
-
 #EXTINF:-1,tvg-logo="https://www.festivalprisma.com/wp-content/uploads/2018/09/telemetro-1-300x300.jpg"group-title="Panama",TELEMETRO TV
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIujHQkRxwRHbDv9Gedal_dqCjLAZ9ayQomVreTjV6WL2RAruaLxGMcUfX0zQeJGW9LaU&usqp=CAU"group-title="Panama",Boon 106.1
+https://ic.streann.com/boom
+
+#EXTINF:-1,tvg-logo="https://radiopanama.com.pa/wp-content/uploads/2022/11/LOGO-RP-NOVIEMBRE-UNO_edit.png"group-title="Panama",Radio Panama 94.5
+https://streaming.radiopanama.com.pa/str
 
 
 
