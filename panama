@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="https://www.tvmax-9.com/mas_deportes/Panama-Open-inicia-viernes_3980926.jpg"group-title="Panama",TVMAX
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1,tvg-logo="https://www.tvmax-9.com/mas_deportes/Panama-Open-inicia-viernes_3980926.jpg"group-title="Panama",TVMAXX
+https://bcovlive-a.akamaihd.net/9d72b1aa553e4773bc024c88c5f74c85/us-west-2/6058004209001/profile_2/chunklist_wv.m3u8
 
 #EXTINF:-1,tvg-logo="https://media.cospanama.com/p/9c8e0be0139e8b6d23b8fb11413c4826/adjuntos/324/banners/017/283/0017283222/cos-fcpng.png"group-title="Panama",COS FC
 https://mdstrm.com/live-stream-playlist/5e3f7b4163e0c26f9e4804ca.m3u8
